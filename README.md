@@ -112,7 +112,7 @@ O sistema preencheria automaticamente os campos do laudo com as informações co
 
 A embalagem [Passou/Falhou] nos testes de qualidade.
 
-- **Recomendações de Melhoria:** 
+- **Recomendações de Melhoria:** Criar assinatura digital para validação dos laudos.
 
 ### Gerar Laudo
 
